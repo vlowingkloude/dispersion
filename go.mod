@@ -4,7 +4,7 @@ go 1.22.3
 
 require (
 	github.com/google/uuid v1.6.0
-	github.com/polypheny/Polypheny-Go-Driver v0.0.0-20240528071432-a534ab01641f
+	github.com/polypheny/Polypheny-Go-Driver v0.0.0-20240701123228-dcf0d9a11e01
 )
 
 require (
